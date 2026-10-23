@@ -1,0 +1,26 @@
+id,bairro_id,pedido,prioridade,cluster,x,y
+E01,1,Pizza Família,normal,1,2.0,7.0
+E02,1,Combo Burguer,alta,1,2.0,7.0
+E03,2,Sushi 12 peças,normal,1,1.0,4.0
+E04,2,Marmita Fitness,baixa,1,1.0,4.0
+E05,3,Açaí 700ml,alta,2,3.0,2.0
+E06,3,Lanche Natural,normal,2,3.0,2.0
+E07,4,Pizza Calabresa,normal,2,7.0,1.5
+E08,4,Refrigerante pack,baixa,2,7.0,1.5
+E09,5,Yakisoba,alta,2,9.0,3.0
+E10,5,Esfiha kit,normal,2,9.0,3.0
+E11,6,Hambúrguer Duplo,normal,0,8.5,6.5
+E12,6,Sorvete 2L,baixa,0,8.5,6.5
+E13,7,Pizza Portuguesa,alta,0,6.0,8.0
+E14,7,Salada Caesar,normal,0,6.0,8.0
+E15,8,Pastel combo,normal,1,4.0,9.0
+E16,8,Suco Detox,baixa,1,4.0,9.0
+E17,9,Feijoada,alta,1,0.5,8.5
+E18,9,Pão de queijo,normal,1,0.5,8.5
+E19,10,Churrasco kit,normal,2,2.5,0.5
+E20,10,Água mineral,baixa,2,2.5,0.5
+E21,11,Temaki,alta,0,9.0,8.0
+E22,11,Coxinha kit,normal,0,9.0,8.0
+E23,2,Pizza Doce,normal,1,1.0,4.0
+E24,6,Wrap Frango,alta,0,8.5,6.5
+E25,4,Macarrão,normal,2,7.0,1.5

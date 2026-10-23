@@ -1,0 +1,159 @@
+{
+  "empresa": "Sabor Express",
+  "hub": "Centro",
+  "total_entregas": 25,
+  "entregadores": 3,
+  "distancia_baseline_km": 70.0,
+  "distancia_otimizada_km": 48.3,
+  "economia_percentual": 31.0,
+  "rotas": [
+    {
+      "entregador": 0,
+      "pedidos": [
+        "E11",
+        "E12",
+        "E13",
+        "E14",
+        "E21",
+        "E22",
+        "E24"
+      ],
+      "bairros_unicos": [
+        "Santa Clara",
+        "Liberdade",
+        "Estacao"
+      ],
+      "rota": [
+        "Centro",
+        "Liberdade",
+        "Santa Clara",
+        "Estacao",
+        "Centro"
+      ],
+      "distancia_km": 14.1,
+      "segmentos_astar": [
+        [
+          "Centro",
+          "Liberdade"
+        ],
+        [
+          "Liberdade",
+          "Santa Clara"
+        ],
+        [
+          "Santa Clara",
+          "Estacao"
+        ],
+        [
+          "Estacao",
+          "Santa Clara",
+          "Centro"
+        ]
+      ]
+    },
+    {
+      "entregador": 1,
+      "pedidos": [
+        "E01",
+        "E02",
+        "E03",
+        "E04",
+        "E15",
+        "E16",
+        "E17",
+        "E18",
+        "E23"
+      ],
+      "bairros_unicos": [
+        "Vila Nova",
+        "Jardim das Flores",
+        "Sao Pedro",
+        "Rio Verde"
+      ],
+      "rota": [
+        "Centro",
+        "Jardim das Flores",
+        "Vila Nova",
+        "Rio Verde",
+        "Sao Pedro",
+        "Centro"
+      ],
+      "distancia_km": 16.1,
+      "segmentos_astar": [
+        [
+          "Centro",
+          "Jardim das Flores"
+        ],
+        [
+          "Jardim das Flores",
+          "Vila Nova"
+        ],
+        [
+          "Vila Nova",
+          "Rio Verde"
+        ],
+        [
+          "Rio Verde",
+          "Sao Pedro"
+        ],
+        [
+          "Sao Pedro",
+          "Vila Nova",
+          "Centro"
+        ]
+      ]
+    },
+    {
+      "entregador": 2,
+      "pedidos": [
+        "E05",
+        "E06",
+        "E07",
+        "E08",
+        "E09",
+        "E10",
+        "E19",
+        "E20",
+        "E25"
+      ],
+      "bairros_unicos": [
+        "Boa Vista",
+        "Parque Industrial",
+        "Alto da Serra",
+        "Campo Belo"
+      ],
+      "rota": [
+        "Centro",
+        "Boa Vista",
+        "Campo Belo",
+        "Parque Industrial",
+        "Alto da Serra",
+        "Centro"
+      ],
+      "distancia_km": 18.1,
+      "segmentos_astar": [
+        [
+          "Centro",
+          "Boa Vista"
+        ],
+        [
+          "Boa Vista",
+          "Campo Belo"
+        ],
+        [
+          "Campo Belo",
+          "Parque Industrial"
+        ],
+        [
+          "Parque Industrial",
+          "Alto da Serra"
+        ],
+        [
+          "Alto da Serra",
+          "Parque Industrial",
+          "Centro"
+        ]
+      ]
+    }
+  ]
+}

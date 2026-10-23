@@ -1,0 +1,13 @@
+id,nome,x,y,tipo
+0,Centro,5.0,5.0,hub
+1,Vila Nova,2.0,7.0,bairro
+2,Jardim das Flores,1.0,4.0,bairro
+3,Boa Vista,3.0,2.0,bairro
+4,Parque Industrial,7.0,1.5,bairro
+5,Alto da Serra,9.0,3.0,bairro
+6,Santa Clara,8.5,6.5,bairro
+7,Liberdade,6.0,8.0,bairro
+8,Sao Pedro,4.0,9.0,bairro
+9,Rio Verde,0.5,8.5,bairro
+10,Campo Belo,2.5,0.5,bairro
+11,Estacao,9.0,8.0,bairro
