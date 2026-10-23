@@ -104,7 +104,7 @@ Rota Inteligente: otimização de entregas da Sabor Express com:
 - K-Means para zonas de entregadores
 - A* + vizinho mais próximo para rotas
 
-Repositório GitHub: <COLE_O_LINK_AQUI>
+Repositório GitHub: https://github.com/andremarcelino-mp4/rota-inteligente
 ```
 
 ---

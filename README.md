@@ -194,3 +194,5 @@ Roteiro completo (blocos por tempo, falas e checklist): [`docs/ROTEIRO_VIDEO.md`
 ## 10. Autor
 
 Projeto acadêmico — UniFECAF / Artificial Intelligence Fundamentals.
+
+**Repositório:** https://github.com/andremarcelino-mp4/rota-inteligente
